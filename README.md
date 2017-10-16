@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+LauricellaViewTool::Renderer.copyright 'Samuel Lauricella','All rights reserved'
+```
 
 ## Development
 
